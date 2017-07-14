@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Focus
-{
+{ 
     class Colorization
     {
         private List<Color> color;
